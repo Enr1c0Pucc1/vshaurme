@@ -110,10 +110,10 @@ ENV/
 # mypy
 .mypy_cache/
 
-idea/
+/.idea/
 
-vscode/
-
-DS_Store/
+/.vscode/
+	
+/.DS_Store/
 
 **/*.sqlite3
